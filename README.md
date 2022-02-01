@@ -1,0 +1,2 @@
+# kubilay
+c# notlarım 
